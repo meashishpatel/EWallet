@@ -2,7 +2,7 @@
 
 A simple wallet app where users can send and receive money through transactions stored in a database.
 
-### Screenshots and Videos
+### Screenshots
 
 ![alt text](image.png)
 ![alt text](image-1.png)
