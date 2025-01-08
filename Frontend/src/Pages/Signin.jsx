@@ -62,7 +62,7 @@ const Signin = () => {
         <span class="sr-only">Info</span>
         <div className="text-center">
           <span class="font-medium">Demo username is </span> johan@gmail.com and{" "}
-          <span className="font-medium"> pass is</span>12345678
+          <span className="font-medium"> pass is </span> 12345678
         </div>
       </div>
 
@@ -76,7 +76,7 @@ const Signin = () => {
             <Label label={"Email"} />
             <input
               ref={email}
-              placeholder={"name@gmail.com"}
+              placeholder={"ashishpatel3009@gmail.com"}
               className="w-full px-2 py-1 border rounded border-slate-200"
             />
             <Label label={"Password"} />
